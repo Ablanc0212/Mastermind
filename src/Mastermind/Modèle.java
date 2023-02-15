@@ -1,3 +1,6 @@
+package Mastermind;
+
+
 import java.awt.Color;
 
 public class Modèle {
